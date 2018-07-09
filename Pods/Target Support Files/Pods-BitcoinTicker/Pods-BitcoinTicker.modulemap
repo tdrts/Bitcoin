@@ -1,0 +1,6 @@
+module Pods_BitcoinTicker {
+  umbrella header "Pods-BitcoinTicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
